@@ -4800,10 +4800,10 @@ msgstr ""
 
 #, c-format
 msgid "Unable to locate printer \"%s\"."
-msgstr ""
+msgstr "Impossible de trouver l'imprimante \"%s\"."
 
 msgid "Unable to locate printer."
-msgstr ""
+msgstr "Impossible de trouver l'imprimante."
 
 msgid "Unable to modify class"
 msgstr "Impossible de modifier la classe :"
@@ -4818,13 +4818,13 @@ msgid "Unable to move jobs"
 msgstr "Impossible de transférer les tâches."
 
 msgid "Unable to open PPD file"
-msgstr ""
+msgstr "Impossible d'ouvrir le fichier PPD"
 
 msgid "Unable to open cupsd.conf file:"
 msgstr "Impossible d’ouvrir le fichier cupsd.conf :"
 
 msgid "Unable to open device file"
-msgstr ""
+msgstr "Impossible d'ouvrir le fichier du périphérique"
 
 #, c-format
 msgid "Unable to open document #%d in job #%d."
@@ -5010,7 +5010,7 @@ msgid "Unsupported page-border value %s, using page-border=none."
 msgstr ""
 
 msgid "Unsupported raster data."
-msgstr ""
+msgstr "Données raster non prises en charge."
 
 msgid "Unsupported value type"
 msgstr "Type de valeur non pris en charge"
@@ -5136,32 +5136,32 @@ msgid "Version uses indefinite length"
 msgstr "La version s’avère être de longueur indéfinie"
 
 msgid "Waiting for job to complete."
-msgstr ""
+msgstr "Attente de l'achèvement de la tâche."
 
 msgid "Waiting for printer to become available."
-msgstr ""
+msgstr "Attente de l'achèvement de la tâche."
 
 msgid "Waiting for printer to finish."
-msgstr ""
+msgstr "Attente de la fin de l'impression."
 
 msgid "Warning: This program will be removed in a future version of CUPS."
 msgstr ""
 
 msgid "Web Interface is Disabled"
-msgstr ""
+msgstr "L'interface Web est désactivée"
 
 msgid "Yes"
 msgstr "Oui"
 
 msgid "You cannot access this page."
-msgstr ""
+msgstr "Vous n'avez pas accès à cette page."
 
 #, c-format
 msgid "You must access this page using the URL https://%s:%d%s."
 msgstr "Vous devez accéder à cette page par l’URL https://%s:%d%s."
 
 msgid "Your account does not have the necessary privileges."
-msgstr ""
+msgstr "Votre compte ne dispose pas des privilèges nécessaires."
 
 msgid "ZPL Label Printer"
 msgstr "Imprimante pour étiquettes ZPL"
